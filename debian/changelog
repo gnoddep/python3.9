@@ -1,3 +1,9 @@
+python3.9 (3.9.2-1+buster1) buster; urgency=medium
+
+  * Backport to buster
+
+ -- Nerdman Debian Repository <debian@nerdman.nl>  Fri, 05 Mar 2021 23:45:38 +0000
+
 python3.9 (3.9.2-1+bionic2) bionic; urgency=medium
 
   * libpython-stdlib: depends tzdata, recommends ca-certificates
